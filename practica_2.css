@@ -1,0 +1,23 @@
+
+
+.izquierda,
+.derecha {
+ font-size: 50px;
+  font-family: Helvetica, 'Times New Roman' ,sans-serif;
+}
+    
+
+
+
+
+
+.izquierda { 
+  background-color: black;
+  color: white;
+  }
+
+.derecha {
+  background-color: yellow;
+  color: black;
+}
+ 
